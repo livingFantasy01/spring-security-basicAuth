@@ -1,6 +1,5 @@
 package livingfantasy.config;
 
-import livingfantasy.dto.CustomUser;
 import livingfantasy.entity.User;
 import livingfantasy.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
